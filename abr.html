@@ -300,8 +300,8 @@ th {
         let products = [];
 
         const fileButtons = [
-            { label: 'أسعار الأجهزة', fileName: 'lcd.txt' },
-            { label: 'الإكسسوارات', fileName: 'abc.txt' }
+            { label: 'أسعار الأجهزة', fileName: 'lcd.md' },
+            { label: 'الإكسسوارات', fileName: 'abc.md' }
         ];
 
         fileButtons.forEach(buttonInfo => {
@@ -312,7 +312,7 @@ th {
         });
 
         window.addEventListener('load', () => {
-            loadProductsFromFile('lcd.txt');
+            loadProductsFromFile('lcd.md');
         });
 
         function loadProductsFromFile(fileName) {
@@ -339,7 +339,7 @@ th {
         }
 
         selectFileButton.onclick = () => {
-            const selectedFile = prompt('أدخل اسم الملف (test.txt أو lcd.txt أو abc.txt):');
+            const selectedFile = prompt('أدخل اسم الملف (test.md أو lcd.md أو abc.md):');
             if (selectedFile) {
                 loadProductsFromFile(selectedFile);
             }
