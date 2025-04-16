@@ -1,4 +1,4 @@
-كڤرات/كفر اصفر/100/https://i.postimg.cc/1tQwXxPr/IMG-7152.jpg
+Cover/Cover/50/https://i.postimg.cc/1tQwXxPr/IMG-7152.jpg
 Apple/iPhone 3 Pro Max/4500/https://everymac.com/images/other_images/iphone-3gs-large.jpg
 samsung/S25 ultra 256|12/aaa/https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_149453259/fee_786_587_png
 samsung/S24 ultra 256|12/aaa/https://sbitany.com/image/cache/catalog/109-634-0049-0369-2024012565120-460x460.jpg
