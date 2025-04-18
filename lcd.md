@@ -1,7 +1,7 @@
 Apple/iPhone 16 Pro Max 1TB/aaa/https://shopitnew.com/wp-content/uploads/2024/09/240911100049812616.png
 Apple/iPhone 16 Pro Max 512/aaa/https://shopitnew.com/wp-content/uploads/2024/09/240911100049812616.png
 Apple/iPhone 16 Pro Max 256/aaa/https://shopitnew.com/wp-content/uploads/2024/09/240911100049812616.png
-Apple/iPhone 16 Pro 256/aaa/
+Apple/iPhone 16 Pro 256/aaa/https://shopitnew.com/wp-content/uploads/2024/09/240911100049812616.png
 Apple/iPhone 16 Plus 128/aaa/
 Apple/iPhone 16 128/aaa/
 Apple/iPhone 15 Plus 256/aaa/
