@@ -1,3 +1,18 @@
+Apple/iPhone 16 Pro Max 512/aaa/
+Apple/iPhone 16 Pro Max 256/aaa/
+Apple/iPhone 16 Pro 256/aaa/
+Apple/iPhone 16 Plus 128/aaa/
+Apple/iPhone 16 128/aaa/
+Apple/iPhone 15 Plus 256/aaa/
+Apple/iPhone 15 Plus 128/aaa/
+Apple/iPhone 15 Pro 256/aaa/
+Apple/iPhone 15 128/aaa/
+Apple/iPhone 14 Pro Max 512/aaa/
+Apple/iPhone 14 Pro Max 256/aaa/
+Apple/iPhone 14 128/aaa/
+Apple/iPhone 13 Pro Max 256/aaa/
+Apple/iPhone 13 Pro/aaa/
+Apple/iPhone 13 128/aaa/
 Apple/iPhone 12 Pro Max 256/aaa/
 Apple/iPhone 12 Pro 256/aaa/
 Apple/IPhone 12 128/aaa/
