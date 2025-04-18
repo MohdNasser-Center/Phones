@@ -1,5 +1,5 @@
-Apple/iPhone 16 Pro Max 512/aaa/
-Apple/iPhone 16 Pro Max 256/aaa/
+Apple/iPhone 16 Pro Max 512/aaa/https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg
+Apple/iPhone 16 Pro Max 256/aaa/https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-240909_inline.jpg.large.jpg
 Apple/iPhone 16 Pro 256/aaa/
 Apple/iPhone 16 Plus 128/aaa/
 Apple/iPhone 16 128/aaa/
