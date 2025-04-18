@@ -1,4 +1,4 @@
-Apple/iPhone 11 Pro Max/aaa/https://istore.co.na/cdn/shop/products/190199382022iPhone11ProMax64GBMidnightGreen.jp.jpg?v=1598459438
+Apple/iPhone 11 128/aaa/https://istore.co.na/cdn/shop/products/190199382022iPhone11ProMax64GBMidnightGreen.jp.jpg?v=1598459438
 Samsung/S25 Ultra 256|12/aaa/https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_149453259/fee_786_587_png
 Samsung/S24 ultra 256|12/aaa/https://sbitany.com/image/cache/catalog/109-634-0049-0369-2024012565120-460x460.jpg
 Samsung/S24 ultra 512|12/aaa/https://sbitany.com/image/cache/catalog/109-634-0049-0369-2024012565120-460x460.jpg
